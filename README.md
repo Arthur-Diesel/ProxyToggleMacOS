@@ -19,8 +19,8 @@ ProxyToggle detecta automaticamente sua interface de rede ativa (Wi-Fi ou Ethern
 ### Opção 1: Build a partir do código-fonte
 
 ```bash
-git clone https://github.com/seu-usuario/ProxyToggle.git
-cd ProxyToggle
+git clone https://github.com/Arthur-Diesel/ProxyToggleMacOS.git
+cd ProxyToggleMacOS
 ./build.sh
 ```
 
